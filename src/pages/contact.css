@@ -1,0 +1,46 @@
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+h1 {
+    margin: 0px;
+    color: var(--sp-color);
+    animation: names-animation 1s ease forwards;
+}
+
+#socials {
+    margin-top: 15px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
+
+#socials button {
+    aspect-ratio: 1/1;
+    background-color: var(--sp-color);
+    scale: 0.9;
+    transition: scale 0.3s ease;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    animation: names-animation-y 1s ease forwards;
+}
+
+#socials button:hover {
+    scale: 1;
+}
+
+#socials button img {
+    width: 50%;
+    aspect-ratio: initial;
+}

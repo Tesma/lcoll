@@ -1,0 +1,50 @@
+@import './variables.css';
+
+#root {
+    margin-top: 75px;
+    width: 100%;
+    font-family:"Poppins", sans-serif;
+}
+
+html {
+    background-color: var(--bk-color);
+    color:white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+button:hover {
+    cursor: pointer;
+}
+
+.blocked-img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+@keyframes names-animation {
+    0% {
+        transform: translateX(-50%);
+        opacity: 0%;
+    }
+    100% {
+        transform: translateX(auto);
+        opacity: 100%;
+    }
+}
+
+@keyframes names-animation-y {
+    0% {
+        transform: translateY(100%);
+        opacity: 0%;
+    }
+    100% {
+        transform: translateY(auto);
+        opacity: 100%;
+    }
+}

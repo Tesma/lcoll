@@ -1,0 +1,46 @@
+export const translations = {
+    en: {
+        home: 'Home',
+        about: 'About',
+        projects: 'Projects',
+        contact: 'Contact',
+        short_about: 'Fullstack Developer based in Brazil',
+        skills: 'Skills',
+        awards: 'Awards',
+        cuco_name: 'USP Knowledge and Opportunities Competition 2023',
+        silver_cat: 'Silver Category',
+        omasp_name: 'São Paulo State Mathematics Olympiad 2024',
+        silver_medal: 'Silver Medal',
+        langs: 'Languages',
+        english: 'English',
+        portuguese: 'Portuguese',
+        level_native: 'Native',
+        level_intad: 'Intermediate-Advanced',
+        education: 'Education',
+        graduation: 'Bachelor’s Degree', //omg insane reference
+        current_grad: 'Present',
+        socials: 'Socials'
+    },
+    pt: {
+        home: 'Início',
+        about: 'Sobre',
+        projects: 'Projetos',
+        contact: 'Contato',
+        short_about: 'Desenvolvedor Fullstack baseado no Brasil', 
+        skills: 'Competências',
+        awards: 'Prêmios',
+        cuco_name: 'Competição USP de Conhecimento e Oportunidades 2023',
+        silver_cat: 'Categoria Prata',
+        omasp_name: 'Olimpíada de Matemática do Estado de São Paulo 2024',
+        silver_medal: 'Medalha de Prata',
+        langs: 'Idiomas',
+        english: 'Inglês',
+        portuguese: 'Português',
+        level_native: 'Nativo',
+        level_intad: 'Intermediário-avançado',
+        education: 'Formação',
+        graduation: 'Bacharelado', //omg insane reference
+        current_grad: 'Presente',
+        socials: 'Redes sociais'
+    },
+}

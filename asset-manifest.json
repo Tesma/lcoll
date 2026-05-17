@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lcoll/static/css/main.6ef631b5.css",
+    "main.js": "/lcoll/static/js/main.7fd7fa36.js",
+    "static/media/1778438670494-4eb9b0dc-8c85-4c5c-a0c8-d719e5944a24_1.png": "/lcoll/static/media/1778438670494-4eb9b0dc-8c85-4c5c-a0c8-d719e5944a24_1.8b2050f3f4db8e0986e1.png",
+    "static/media/github-svgrepo-com.svg": "/lcoll/static/media/github-svgrepo-com.154b6a32c92bfa5864d198c1b410e005.svg",
+    "static/media/flag-for-united-kingdom-svgrepo-com.svg": "/lcoll/static/media/flag-for-united-kingdom-svgrepo-com.b0ed3373ea71a2563fc58d1b852068f2.svg",
+    "static/media/flag-for-brazil-svgrepo-com.svg": "/lcoll/static/media/flag-for-brazil-svgrepo-com.80895c4e73db7a5abdff2cbe55cc7f60.svg",
+    "static/media/linkedin-161-svgrepo-com.svg": "/lcoll/static/media/linkedin-161-svgrepo-com.12c7c583b378517a6e3c942e41bce59f.svg",
+    "index.html": "/lcoll/index.html",
+    "main.6ef631b5.css.map": "/lcoll/static/css/main.6ef631b5.css.map",
+    "main.7fd7fa36.js.map": "/lcoll/static/js/main.7fd7fa36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef631b5.css",
+    "static/js/main.7fd7fa36.js"
+  ]
+}
